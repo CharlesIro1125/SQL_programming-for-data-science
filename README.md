@@ -1,4 +1,4 @@
-# SQL_programming-for-data-science
+# SQL_Analysis
 SQL_for_data_science.
 
 This repository contains SQL Analysis on the Parch and Posey Database.
