@@ -3,7 +3,7 @@
 
 This repository contains SQL Analysis on the Parch and Posey Database.
 
-> Key Analysis
+> Key Analysis and opeartions.
 > 
 > > SQL datacleaning
 > > 
